@@ -1,0 +1,15 @@
+.nav {
+  font-weight: 500;
+  font-size: 19px;
+  box-shadow: 0px 2px 5px white;
+  color: lightsalmon;
+}
+.nav .navs {
+  margin-left: 20px;
+}
+
+.nav .navs:hover {
+  background-color: lightseagreen;
+  border-radius: 10px;
+  cursor: pointer;
+}

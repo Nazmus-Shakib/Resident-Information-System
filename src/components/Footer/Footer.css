@@ -1,0 +1,21 @@
+footer img {
+  height: 60px;
+}
+footer {
+  color: #ffffff;
+  display: block;
+  line-height: 2;
+}
+.list-unstyled {
+  color: yellowgreen;
+}
+.list-unstyled :hover {
+  color: red;
+  cursor: pointer;
+}
+.contact p {
+  color: lightgray;
+}
+.list-inline a {
+  color: red;
+}

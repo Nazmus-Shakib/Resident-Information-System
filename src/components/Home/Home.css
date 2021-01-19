@@ -1,0 +1,20 @@
+.caro-item img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 1500px;
+  height: 650px;
+}
+.caro-item h1 {
+  color: Cornsilk;
+}
+.caro-item h5 {
+  color: black;
+}
+.testimonials {
+  background-color: lightslategray;
+  color: white;
+  padding-bottom: 20px;
+  padding-top: 20px;
+  line-height: 25px;
+}

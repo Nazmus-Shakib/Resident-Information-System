@@ -1,0 +1,19 @@
+.details-form {
+  margin-top: 310px;
+  position: absolute;
+  top: 10%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
+.details-form input {
+  display: block;
+  margin-top: 15px;
+
+  padding: 5px;
+  border-radius: 5px;
+  width: 300px;
+}
+.error {
+  color: red;
+}

@@ -1,0 +1,15 @@
+.residentNo {
+  width: 100%;
+  margin-left: 50px;
+  margin-right: auto;
+}
+
+.form_container {
+  margin-left: 150px;
+}
+
+@media only screen and (max-width: 691px) {
+  .form_container {
+    margin-left: 50px;
+  }
+}
